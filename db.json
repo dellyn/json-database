@@ -32,8 +32,7 @@
       "price": "8.99",
       "description": "Chicken, Bacon, Mushrooms, Mozzarella, BBQ   Sauce"
     },
-    {
-      "id": 4,
+    {as
       "name": "Pizza Tehas",
       "image": "images/tehas.jpg",
       "price": "8.99",
